@@ -1,0 +1,34 @@
+
+html, body{
+    margin: 0;
+    width: 100%;
+    background-color: black
+}
+
+.main-container{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+h1{
+    width: 100%;
+    margin-top: 15%;
+    position: absolute;
+    font-size: 5vw;
+    font-weight: bold;
+    text-align: center;
+    color: teal;
+    font-family: 'oswald', sans-serif;
+    letter-spacing: 6px;
+}
+
+#clock{
+   width: 100%;
+   position: absolute;
+   font-size: 5vw;
+   color: white;
+   text-align: center;
+   font-family: 'Roboto', sans-serif;
+   margin-top: 30%;
+}
