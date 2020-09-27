@@ -36,7 +36,7 @@ This is a real time clock application.
 - VS Code
 - Git
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#real-time-clock)
 
 ---
 
@@ -48,4 +48,4 @@ This is a real time clock application.
 - Website - [............](............) 
 -->
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#real-time-clock)
